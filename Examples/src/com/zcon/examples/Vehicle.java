@@ -15,6 +15,7 @@ class Vehicle1{
 	  Vehicle obj = new Vehicle();
 	  obj.run(10,50);
 	  System.out.println(obj.x);
+	  ////new comment
 	  }
 	}
 
