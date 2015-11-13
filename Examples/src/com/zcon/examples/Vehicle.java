@@ -14,7 +14,7 @@ class Vehicle1{
 	  public static void main(String args[]){
 	  Vehicle obj = new Vehicle();
 	  obj.run(10,50);
-	  System.out.println(""+obj.x);
+	  System.out.println(obj.x);
 	  }
 	}
 
